@@ -1,6 +1,6 @@
 # Landing_Page
 
-Simple overview of use/purpose.
+Landing_Page.
 
 ## Description
 
