@@ -1,6 +1,6 @@
 # Landing_Page
 
-Bokkmark landing page.
+Bookmark landing page.
 
 ## Description
 
