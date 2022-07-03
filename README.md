@@ -4,7 +4,8 @@ Bokkmark landing page.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A clean and simple interface to organize your favourite websites. 
+Open a new browser tab and see your sites load instantly.
 
 ## User Interface
 
